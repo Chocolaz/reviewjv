@@ -1,0 +1,13 @@
+Tasks for Practice:
+1. Create a button that, when clicked, dynamically adds a new element to the page.
+2. Implement a counter that increases each time a button is clicked.
+3. Create a form with basic validation (e.g., required fields, minimum length).
+4. Build a simple to-do list application with add, delete, and mark as completed functionalities.
+5. Implement a dropdown menu that changes the content on the page based on the selected
+option.
+6. Create a photo gallery that allows users to navigate through images.
+7. Develop a quiz application with multiple-choice questions and provide feedback on
+submission.
+8. Build a simple chat application that updates in real-time using DOM manipulation.
+9.  Implement a countdown timer that updates dynamically.
+10. Create a drawing board where users can draw by interacting with the mouse.
